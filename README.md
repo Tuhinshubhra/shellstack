@@ -116,7 +116,7 @@ root@R3D_MACH1N3:/home/redhaxor/Desktop/shellstack#
 
 ```
 # Release(s)
-> Version 1.0 On 15-06-2017
+> Version 1.0 On 14-06-2017
 
 # screenshots
 
