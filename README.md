@@ -14,7 +14,7 @@ ShellStack is a PHP based backdoor management tool. This Tool comes handy for "H
 1. `git clone https://github.com/Tuhinshubhra/shellstack`
 2. `cd shellstack`
 3. `php shellstack.php`
-4. `generatebd` and exit the tool use `CTRL + C` - This will generate a backdoor file in the same directory as of the tool in a file named **backdoor.php**
+4. `generatebd` and exit the tool use <kbd>CTRL</kbd> + <kbd>C</kbd> - This will generate a backdoor file in the same directory as of the tool in a file named **backdoor.php**
 5. Upload The Backdoor File To The Victim website
 6. Copy The Backdoor URL and paste it in the **shells.txt** file present in the tool's directory and save it (*Each backdoor is separated by a new line*)
 7. `php shellstack.php`
