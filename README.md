@@ -1,6 +1,5 @@
 # ShellStack 
 #### Version 1.0
-#### Coded By R3D#@X0R_2H1N A.K.A Tuhinshubhra
 ----
 ShellStack is a PHP based backdoor management tool. This Tool comes handy for "HACKERS" who wish to keep a track of every website they hack. The tool generates a backdoor file which you just have to upload to the site and put the backdoor URL in the shells.txt present in the tool's directory.
 
@@ -120,7 +119,3 @@ root@R3D_MACH1N3:/home/redhaxor/Desktop/shellstack#
 # Release(s)
 > Version 1.0 On 14-06-2017
 
-# screenshots
-
-![Alt text](http://oi68.tinypic.com/2mybzo3.jpg "Screenshot")
-![Alt text](http://oi64.tinypic.com/2yycs1t.jpg "Screenshot")
